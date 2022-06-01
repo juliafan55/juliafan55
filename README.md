@@ -1,10 +1,10 @@
 ### Hi there 👋
 
+- 🔭 I’m currently working on becoming a Full Stack Developer!
+- 🌱 I’m currently learning React.js
 
 ### Github Stats
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliafan55&theme=swift&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
-
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliafan55&theme=swift&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliafan55&theme=swift&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliafan55&theme=swift&layout=compact)
 
 <!--
 **juliafan55/juliafan55** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
