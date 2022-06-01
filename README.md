@@ -1,7 +1,7 @@
 ### Hi there 👋
 
-🔭 I’m currently working on becoming a Full Stack Developer!
-🌱 I’m currently learning React.js
+- 🔭 I’m currently working on becoming a Full Stack Developer!
+- 🌱 I’m currently learning React.js
 
 ### Github Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=juliafan55&theme=swift&show_icons=true)   ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=juliafan55&theme=swift&layout=compact)
